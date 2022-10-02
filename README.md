@@ -109,5 +109,5 @@ Name the file `hello_world_yourusername.xx`. e.g., `hello_world_MR-MRHRA-D-BUG.j
 
 Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial. 
 
-Here is my `hello_world` example: [hello_world_Mr-Mehra-D-BUG.js](https://github.com/AliceWonderland/hacktoberfest/blob/master/scripts/hello_world_alicewonderland.js)
+Here is my `hello_world` example: [hello_world_Mr-Mehra-D-BUG.js](https://github.com/Mr-Mehra-D-BUG/hacktoberfest-2022/blob/master/profiles/hello_world_Mr-Mehra-D-BUG.js)
 
