@@ -15,3 +15,8 @@
 - Place: Tunis, Tunis, Tunisia.
 - Bio: DevOps Engineer, and a lazy person.
 - GitHub: [AhmedGrati](https://github.com/AhmedGrati)
+
+#### Name: [Ryan Souza Sá Teles][(Github Link)](https://github.com/Ryrden)
+- Place: São Paulo, São Paulo, Brazil
+- Bio: Software Engineer Intern
+- GitHub: [ryrden](https://github.com/Ryrden)
