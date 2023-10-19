@@ -11,6 +11,11 @@
 - Bio: Web developer 
 - Github: [Devesh Mehra](https://github.com/MehraDevesh2022)
 
+#### Name: [Samara Simha Reddy Yasani](https://github.com/samara6855)
+- Place: Hyderabad, India
+- Bio: Web Developer
+- GitHub: [Samara Simha Reddy Yasani](https://github.com/samara6855)
+
 #### Name: [Ahmed Grati](https://github.com/AhmedGrati)
 - Place: Tunis, Tunis, Tunisia.
 - Bio: DevOps Engineer, and a lazy person.
